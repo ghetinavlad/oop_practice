@@ -1,0 +1,4 @@
+1 | paine | vlad | 2.5
+2 | suc | gicu | 5
+3 | carne | andrei | 4.7
+4 | dulciuri | bogdan | 11.2
